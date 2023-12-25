@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Suit Test</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="title_second_screen">Second Screen</string>
+    <string name="next_text">NEXT</string>
+    <string name="check_text">CHECK</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="title_third_screen">Third Screen</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="no_data">No Data Found</string>
+</resources>
